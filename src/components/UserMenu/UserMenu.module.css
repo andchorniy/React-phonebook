@@ -1,0 +1,12 @@
+.userMenu {
+  display: flex;
+  width: 200px;
+}
+.userEmail {
+  color: gray;
+  font-size: 16px;
+  margin-left: 15px;
+}
+.btn {
+  font-size: 10px;
+}

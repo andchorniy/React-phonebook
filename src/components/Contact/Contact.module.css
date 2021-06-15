@@ -1,0 +1,11 @@
+.mainField {
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+.name {
+  font-weight: 700;
+}
+.btn {
+  margin-left: auto;
+}

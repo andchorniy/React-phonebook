@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  max-width: 1440px;
+  margin: 0 auto;
+  border-bottom: 2px palevioletred solid;
+  align-items: center;
+  padding: 15px;
+  box-sizing: border-box;
+  height: 80px;
+}
+.navItem {
+  text-decoration: none;
+  color: gray;
+  font-size: 24px;
+  margin-left: 15px;
+}
+.activeItem {
+  color: palevioletred;
+}
+.authNav {
+  display: flex;
+  width: 200px;
+  justify-content: flex-end;
+}
