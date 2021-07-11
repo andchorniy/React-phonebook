@@ -15,7 +15,7 @@ const AppBar = ({isLogin}) => {
       <NavLink to="/" exact className={style.navItem} activeClassName={style.activeItem}>
         Home
       </NavLink>
-      <NavLink to="/contacts" className={style.navItem} activeClassName={style.activeItem}> Contacts </NavLink>
+       <NavLink to="/contacts" className={style.navItem} activeClassName={style.activeItem}> Contacts </NavLink>
       
     </nav>
     <Link to="/"> <PhoneBookSvg width="40" height="40" /> </Link>
